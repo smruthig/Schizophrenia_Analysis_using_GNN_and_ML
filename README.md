@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
-</p>
-<p align="center">
     <h1 align="center">Graph Neural Network and Machine Learning Analysis of Functional Neuroimaging for Understanding Schizophrenia</h1>
 </p>
 <p align="center">
@@ -29,18 +26,13 @@
 
 ##  Quick Links
 
-> - [ Overview](#-overview)
-> - [ Features](#-features)
-> - [ Repository Structure](#-repository-structure)
-> - [ Modules](#-modules)
-> - [ Getting Started](#-getting-started)
->   - [ Installation](#-installation)
->   - [Running Schizophrenia_Detection](#-running-Schizophrenia_Detection)
->   - [ Tests](#-tests)
-> - [ Project Roadmap](#-project-roadmap)
-> - [ Contributing](#-contributing)
-> - [ License](#-license)
-> - [ Acknowledgments](#-acknowledgments)
+> - [ Overview](#overview)
+> - [ Repository Structure](#repository-structure)
+> - [ Instructions](#instructions)
+>   - [ Installation Locally](#installation-locally)
+>   - [ Running Schizophrenia_Detection](#running-schizophrenia_detection)
+> - [ Contributing](#contributing)
+> - [ License](#license)
 
 ---
 
@@ -128,7 +120,7 @@ jupyter notebook
 
 Contributions are welcome! Here are several ways you can contribute:
 
-- **[Submit Pull Requests](https://github.com/smruthig/Schizophrenia_Detection/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **[Submit Pull Requests](https://github.com/smruthig/Schizophrenia_Detection/pulls)**: Review open PRs, and submit your own PRs.
 - **[Report Issues](https://github.com/smruthig/Schizophrenia_Detection/issues)**: Submit bugs found or log feature requests for the `Schizophrenia_Detection` project.
 
 <details closed>
@@ -162,7 +154,7 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 #  License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is protected under the [MIT License](https://opensource.org/license/mit/). 
 
 ---
 
