@@ -2,7 +2,7 @@
     <h1 align="center">Graph Neural Network and Machine Learning Analysis of Functional Neuroimaging for Understanding Schizophrenia</h1>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/smruthig/Schizophrenia_Detection?style=flat&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/license/smruthig/schizophrenia_detection?style=flat&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/smruthig/Schizophrenia_Detection?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/smruthig/Schizophrenia_Detection?style=flat&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/smruthig/Schizophrenia_Detection?style=flat&color=0080ff" alt="repo-language-count">
