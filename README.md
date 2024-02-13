@@ -27,6 +27,9 @@
 ##  Quick Links
 
 > - [ Overview](#overview)
+>   - [ Background](#background)
+>   - [ Results](#results)
+>   - [ Conclusions](#conclusions)
 > - [ Repository Structure](#repository-structure)
 > - [ Instructions](#instructions)
 >   - [ Installation Locally](#installation-locally)
@@ -45,6 +48,8 @@ The performance of our graph neural network models is on par with that of our ma
 
 ### Conclusions
 This study provides insights into the role of advanced graph theoretical methods and machine learning on fMRI data to detect schizophrenia by harnessing changes in brain functional connectivity. The results of this study demonstrate the capabilities of using both traditional ML techniques as well as graph neural network-based methods to detect schizophrenia using features extracted from fMRI data. The study also proposes two methods to obtain potential biomarkers for the disease, many of which are corroborated by research in this area and can further help in the understanding of schizophrenia as a mental disorder.
+
+---
 
 ##  Repository Structure
 
@@ -73,6 +78,7 @@ This study provides insights into the role of advanced graph theoretical methods
     ├── README.md
     └── requirements.txt
 ```
+---
 
 ## Instructions
 
@@ -115,6 +121,8 @@ Use the following command to run Schizophrenia_Detection using Jupyter:
 ```sh
 jupyter notebook
 ```
+
+---
 
 ##  Contributing
 
