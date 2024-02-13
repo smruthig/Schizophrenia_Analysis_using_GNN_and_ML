@@ -6,16 +6,16 @@ SUPPLEMENTARY CODE
 |- Data    
 | |- Generated Features  
 | |- Metadata  
-| `- Preprocessed Data     
+| |- Preprocessed Data     
 |- Code  
 | |- 1. Feature Generation    
 | |- 2. Threshold Comparison  
 | |- 3. Data Augmentation  
 | |- 4. Machine Learning  
 | |- 5. Graph Neural Network  
-| `- 6. Biomarker Detection  
+| |- 6. Biomarker Detection  
 |- requirements.txt  
-`- README.pdf  
+|- README.pdf  
 
 ## Instructions
 
